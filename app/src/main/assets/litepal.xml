@@ -5,9 +5,9 @@
     <version value = "1"/>
 
     <list>
-        <mapping class="com.goodweather.android.db.Province"/>
-        <mapping class="com.goodweather.android.db.City"/>
-        <mapping class="com.goodweather.android.db.Country"/>
+        <mapping class="com.example.shinianer.goodweather.db.Province" />
+        <mapping class="com.example.shinianer.goodweather.db.City" />
+        <mapping class="com.example.shinianer.goodweather.db.Country" />
     </list>
 
 </litepal>
